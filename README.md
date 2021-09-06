@@ -43,9 +43,6 @@ Objetivos Especificos
 
 
 
-1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
-
-
 **Calculo de Errores**
 
 
