@@ -99,7 +99,9 @@ Link del Video: https://www.youtube.com/watch?v=d26HWi0OIyk
 
 **6. CONCLUSIONES**
 
-*  
+* Las fuentes de corriente alterna varían en magnitud a lo largo del tiempo describiendo ondas con voltaje pico, pico-pico o rms.
+*  El valor del voltaje mostrado en el osciloscopio varia de la del multimetro por un factor de error cuadratico medio llamado "RMS" (Root Mean Square).
+*  Un osciloscopio puede mostrar diferentes tipos de ondas dependiendo de la fuente que este conectado y de la frecuencia a la que se muevan los valores de voltaje.
 
 **7. Bibliografia**
 
