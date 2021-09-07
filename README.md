@@ -50,25 +50,44 @@ Objetivos Especificos
 **Preguntas de la Guía**
 
 
-¿Cuantas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+¿Cuantas divisiones por cuadro abarca la amplitud pico de la señal de salida
+
+Dos divisiones por cuadro
 
 ¿En que valor esta posicionada la perilla VOLTS/DIV ?
 
+En la perilla 10
+
 ¿Cuantas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+
+3.5 divisiones por cuadro
 
 ¿En que valor esta posicionada la perilla TIME/DIV?
 
+En 0.1 m
+
 7.5.5 ¿Cual es la amplitud  de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+
+La amplitud es 13.51 
+
+El periodo es 350 micro segundos  
 
 7.5.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-7.5.7. Con el multimetro digital mida el voltaje de salida de RL.
+Frecuencia natural 2.85 kHz
+Frecuencia angular 17.95 x 10^3 rad/s
+
 
 7.5.8. Compare el voltaje medido en el punto 7.5.5 y el obtenido en el punto 7.5.7 ¿Coinciden?  ¿Por que?
 
+4.81 V vs 6.86 V 
+
+No coinciden, debido a que el multimetro marca valores rms y el osciloscopio marca valores pico.
 
 
 **Calculo de Errores**
+
+![imagen10](https://user-images.githubusercontent.com/84357979/132302389-0250db2f-75f1-424d-8ee4-445113944313.png)
 
 
 **5.VIDEO**
