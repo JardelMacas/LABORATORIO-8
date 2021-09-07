@@ -92,9 +92,10 @@ No coinciden, debido a que el multimetro marca valores rms y el osciloscopio mar
 
 **5.VIDEO**
 
-Link del Video: https://www.youtube.com/watch?v=d26HWi0OIyk
+Link del Video: https://www.youtube.com/watch?v=6R5i53Ai34c
 
-.[![Circuitos Eléctricos || Guía de Laboratorio 7|| Capacitores e Inductores](https://img.youtube.com/vi/d26HWi0OIyk/0.jpg)](https://youtu.be/d26HWi0OIyk)
+.[![Circuitos Eléctricos || Guía de Laboratorio 8|| Características de la Onda Senoidal](https://img.youtube.com/vi/6R5i53Ai34c/0.jpg)](https://youtu.be/6R5i53Ai34c)
+
 
 
 **6. CONCLUSIONES**
