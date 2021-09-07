@@ -33,7 +33,7 @@ Objetivos Especificos
 
 ![image](https://user-images.githubusercontent.com/84453441/132269235-04b54ef7-5efe-4892-bbb7-00d9eb75ddec.png)
 
-5. Como primer paso colocamos la fuente de voltaje Vac de 20 Vpp con una frecuencia de 2.5 KHz, por consiguiente, las dos resistencias, la primera con un valor de 1 KOhm correspondiente a 1000 Ohmios y una segunda a la cual denominaremos RL con un valor de 2.2 KOhm que corresponden a 2200 Ohmios y procedemos a armar el circuito conforme a lo planteado.
+5 . Como primer paso colocamos la fuente de voltaje Vac de 20 Vpp con una frecuencia de 2.5 KHz, por consiguiente, las dos resistencias, la primera con un valor de 1 KOhm correspondiente a 1000 Ohmios y una segunda a la cual denominaremos RL con un valor de 2.2 KOhm que corresponden a 2200 Ohmios y procedemos a armar el circuito conforme a lo planteado.
 
 6 . Con la ayuda de un instrumento de medición (osciloscopio), conectamos las puntas en la resistencia RL para así permitirnos visualizar la señal que produce el circuito quedando de la siguiente manera:
 
